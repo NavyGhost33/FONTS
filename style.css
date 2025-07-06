@@ -111,5 +111,47 @@ span {
   color: red;
 }
 
+/*  Адаптация для iPhone (до 425px) */
+@media (max-width: 425px) {
+  h1 {
+    font-size: 3rem;
+  }
+
+  .p1 {
+    font-size: 2rem;
+  }
+
+  .p2 {
+    font-size: 2.5rem;
+  }
+
+  .p3 {
+    font-size: 1.5rem;
+  }
+
+  .p4 {
+    font-size: 2rem;
+  }
+
+  .p5 {
+    font-size: 3rem;
+  }
+
+  .p6 {
+    font-size: 2rem;
+    margin: 10px 20px;
+  }
+
+  .p7 {
+    font-size: 1.5rem;
+  }
+
+  .container {
+    border-left: 20px solid rgb(166, 13, 13);
+    border-right: 20px solid navy;
+    padding: 20px 0;
+  }
+}
+
 
 
