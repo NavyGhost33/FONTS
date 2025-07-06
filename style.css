@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  width: 50vw;
+  width: 90%;
   height: 100vh;
   max-width: 900px;
   margin: 0 auto;
