@@ -32,6 +32,7 @@ h1 {
   padding: 40px 0 0 0;
   line-height: 1.1;
   letter-spacing: 0.1rem;
+  margin: 30px 0;
 }
 
 .p1 {
@@ -43,7 +44,7 @@ h1 {
   text-align: center;
   line-height: 1;
   padding: 0 10px;
-  margin-bottom: 12px;
+  margin: 30px 0;
 }
 
 .p2 {
@@ -52,7 +53,7 @@ h1 {
   color: white;
   text-align: center;
   line-height: 1;
-  margin: 2px 0;
+  margin: 20px 0;
 }
 
 .p3 {
@@ -60,7 +61,7 @@ h1 {
   font-size: 2rem;
   color: white;
   text-align: center;
-  margin: 10px 0;
+  margin: 20px 0;
 }
 
 .p4 {
@@ -80,7 +81,7 @@ h1 {
   font-style: normal;
   color: white;
   text-align: center;
-  margin: 7px 0;
+  margin: 15px 0;
 }
 
 .p6 {
@@ -90,7 +91,7 @@ h1 {
   background-color: white;
   color: black;
   text-align: center;
-  margin: 0 40px;
+  margin: 10px 40px;
   border-radius: 5px;
   box-shadow: 0 0 7px white;
   transform: rotate(-7deg);
@@ -103,6 +104,7 @@ h1 {
   font-size: 2rem;
   text-align: right;
   color: white;
+  margin: 40px 5px 15px 0;
 }
 
 span {
