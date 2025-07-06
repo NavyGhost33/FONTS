@@ -83,3 +83,31 @@ h1 {
   margin: 7px 0;
 }
 
+.p6 {
+  font-family: "Caveat", cursive;
+  font-size: 2.5rem;
+  font-weight: 700;
+  background-color: white;
+  color: black;
+  text-align: center;
+  margin: 0 40px;
+  border-radius: 5px;
+  box-shadow: 0 0 7px white;
+  transform: rotate(-7deg);
+}
+
+.p7 {
+  font-family: "DM Mono", monospace;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2rem;
+  text-align: right;
+  color: white;
+}
+
+span {
+  color: red;
+}
+
+
+
